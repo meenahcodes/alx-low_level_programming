@@ -1,6 +1,9 @@
 #ifndef main_h
 	#define main_h
 
+/**
+ *The prototypes of all your functions and the prototype of the function
+ */
 
 	int _putchar(char);
 	void print_alphabet(void);
